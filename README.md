@@ -6,7 +6,13 @@
   Windows 11 themed Website, built with svelte.
 </h1>
 
-To run project type:
+> Info: This was a fun project, made for tinkering around with svelte. You can edit this as you wish and feel free to republish.
+
+### What is this?
+
+This is a windows 11 themed page built with svelte [Svelte](http://svelte.dev/). I was also using many assets from [Svelte](fluent-svelte) component UI library that emulates the look and feel of [Microsoft's Windows UI Controls](https://github.com/microsoft/microsoft-ui-xaml/)..
+
+To run project, type:
 
 ```
 npm i
