@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://i.imgur.com/c3B5oup.png" width="340" height="131" style="border-radius: 50%;"/>
   <br />
-  Windows 11 themed Website, built by with svelte.
+  Windows 11 themed Website, built with svelte.
 </h1>
 
 To run project type:
